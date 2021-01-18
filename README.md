@@ -47,5 +47,4 @@ yazarak nodeları başlatalım.
 Son olarak rqt_graph, rosnode info rosnode list komutlarını kullanarak yaptığımız işlemleri görüntüleyebilirsiniz.
 
 <img src="https://i.hizliresim.com/e087V3.png">
-<img src="" >
 
